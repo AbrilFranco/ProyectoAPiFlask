@@ -4,3 +4,6 @@ nbconvert
 nbformat
 papermill
 gunicorn
+nbformat
+nbconvert
+papermill
